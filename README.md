@@ -1,11 +1,12 @@
 # Glossary of Data Science Terms
 
 How to update:
-1. Create a branch from **main**
-2. Make your changes on your new branch
-3. Commit and push your changes
-4. Submit a pull request. 
-5. Get one other student to review your changes and merge them into **main**.
+1. Pull the latest version of the glossary on main branch. `git pull`
+2. Create a branch from **main** `git checkout -b new_branch`
+3. Make your changes on your new branch
+4. Commit and push your changes `git commit -am 'commit_message'; git push -u origin new_branch`
+5. Submit a pull request on github.
+6. Get one other student to review your changes and merge them into **main**.
 
 #### Terms
 
