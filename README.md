@@ -14,7 +14,7 @@ Predictor - see feature, regressor, independent variable. A column that we use f
 
 Regressor
 
-Independent Variable
+Independent Variable - same as predictor
 
 Feature
 
