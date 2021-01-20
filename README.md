@@ -10,7 +10,7 @@ How to update:
 
 #### Terms
 
-Predictor
+Predictor - see feature, regressor, independent variable. A column that we use for prediction in regression.
 
 Regressor
 
