@@ -30,7 +30,7 @@ Error
 
 Residual = true_y - predicted_y
 
-Regression
+Regression - ML technique used to predict numeric or continuous values
 
 Classification
 
