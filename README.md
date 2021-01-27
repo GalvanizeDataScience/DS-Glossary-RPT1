@@ -52,7 +52,7 @@ Validation Set
 
 Holdout Set
 
-RMSE
+RMSE= Root Mean Squared Error 
 
 MAE
 
