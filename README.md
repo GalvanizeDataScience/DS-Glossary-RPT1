@@ -30,7 +30,7 @@ Error
 
 Residual
 
-Regression
+Regression - ML technique used to predict numeric or continuous values
 
 Classification
 
