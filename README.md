@@ -52,9 +52,9 @@ Validation Set
 
 Holdout Set
 
-RMSE= Root Mean Squared Error 
+RMSE = root mean squared error (what you try to minimize) its in the same units as what you are trying to predict.
 
 MAE
 
-R-Squared
+R-Squared = 
  
