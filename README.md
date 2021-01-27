@@ -28,7 +28,7 @@ Dependant Variable
 
 Error
 
-Residual
+Residual = true_y - predicted_y
 
 Regression
 
