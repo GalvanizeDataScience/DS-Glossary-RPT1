@@ -52,9 +52,9 @@ Validation Set
 
 Holdout Set
 
-RMSE
+RMSE = root mean squared error (what you try to minimize)
 
 MAE
 
-R-Squared
+R-Squared = 
  
