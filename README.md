@@ -57,4 +57,6 @@ RMSE = root mean squared error (what you try to minimize) its in the same units 
 MAE
 
 R-Squared = 
+
+Logistic Regression -
  
