@@ -30,13 +30,13 @@ Error
 
 Residual = true_y - predicted_y
 
-Regression - ML technique used to predict numeric or continuous values
+Regression - ML technique used to predict numeric or continuous values, an example of this is the Cars dataset
 
-Classification
+Classification - ML technique used to predict categories of data, an example of this is the Iris dataset
 
-Supervised
+Supervised - ML technique used when we know the values/classes we are trying to predict
 
-Unsupervised
+Unsupervised - ML technique used when we do not know the values/classes we are trying to predict 
 
 In-Sample Prediction
 
@@ -54,9 +54,13 @@ Holdout Set
 
 RMSE = root mean squared error (what you try to minimize) its in the same units as what you are trying to predict.
 
-MAE
+MAE - evaluation metric used for regression models, 
 
-R-Squared = 
+R-Squared - evaluation metric used for regression models, first seen in the KNN lecture, R^2 will be between 0 and 1 and the value says something about how much of the variance in the data the model can explain. Higher R^2 score is better.
+
+<p align="center">
+  <img src="https://github.com/GalvanizeDataScience/DS-Glossary-RPT1/blob/main/formula_images/R-squared.png">
+</p>
 
 Logistic Regression -
  
